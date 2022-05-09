@@ -42,7 +42,7 @@ void loop()
 
 /*
  * vTaskDelay(waktu dalam milisecond/portTICK_PERIOD_MS)
- * portTICK_PERIOD_MS berfunsi sebagai nilai pembagi dalam fungsi vTaskDelay, agak menjadi realtime
+ * portTICK_PERIOD_MS berfunsi sebagai nilai pembagi dalam fungsi vTaskDelay, agar menjadi realtime
  * 
  * 
  */
